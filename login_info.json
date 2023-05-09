@@ -2,11 +2,13 @@
   {
     "id": 1,
     "username": "pankaj",
-    "password": "123"
-  }, 
-	{
+    "password": "123",
+    "name": "pankaj"
+  },
+  {
     "id": 2,
     "username": "golu",
-    "password": "1234"
+    "password": "1234",
+    "name": "golu"
   }
 ]
